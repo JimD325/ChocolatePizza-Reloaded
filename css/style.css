@@ -29,6 +29,7 @@ header {
 }
 body {
   width:960px;
+	margin:auto;
 }
 #sociallist{
   margin-left: 500px;
